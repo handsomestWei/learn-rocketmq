@@ -114,3 +114,4 @@ http://127.0.0.1:8080
 + [rocketmq connect中文指南](https://github.com/apache/rocketmq-externals/blob/master/docs/connect/cn/README.md)
 + [dledger 基于raft协议的commitlog存储库](https://github.com/openmessaging/openmessaging-storage-dledger)
 + [rocketmq官方demo](https://github.com/alibaba/spring-cloud-alibaba/tree/master/spring-cloud-alibaba-examples/rocketmq-example)
++ [阿里云大学RocketMQ Binder](https://edu.aliyun.com/course/1942)
